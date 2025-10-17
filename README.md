@@ -1,16 +1,16 @@
-# Java_Project_Sem3
+# Syntax Scholars
 
 ## Overview
 
-This repository, Java_Project_Sem3, is a collaborative project developed by three team members with the goal of building a fully Java-oriented website. All core functionalities and backend logic are implemented using Java technologies, providing a strong, scalable, and maintainable web application foundation.
+This repository, Syntax-Scolars, is a collaborative project developed by three team members with the goal of building a fully Java-oriented website. All core functionalities and backend logic are implemented using Java technologies, providing a strong, scalable, and maintainable web application foundation.
 
 ## Project Highlights
 
-- **Team Size:** 3 Members
+- **Team Size:** 4 Members
 - **Primary Language:** Java
 - **Project Goal:** Design and develop a dynamic website leveraging Java for all backend and server-side needs.
 - **Technologies Used:**
-  - Java (Servlets, JSP, or Spring Framework)
+  - Java (Servlets, AWT, SWING, JSP, or Spring Framework)
   - HTML, CSS, JavaScript (for frontend presentation)
   - MySQL or another relational database (optional, for persistence)
   - Maven or Gradle (for dependency management, if applicable)
@@ -35,7 +35,7 @@ This repository, Java_Project_Sem3, is a collaborative project developed by thre
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/BarathiShankar/Java_Project_Sem3.git
+   git clone https://github.com/BarathiShankar/Syntax-Scholars-Java2025.git
    ```
 2. **Import the project into your Java IDE (Eclipse, IntelliJ IDEA, etc.).**
 3. **Configure your application server (e.g., Tomcat) and database if needed.**
@@ -59,7 +59,10 @@ This project was developed collaboratively by three contributors, each responsib
 
 - [Bhuvaneshwar](https://github.com/TNDEVIL4U) -> Team Leader
 - [Barathi Shankar](https://github.com/BarathiShankar) -> Team Member
-<!-- - [Member 3 Name](https://github.com/member3) -->
+
+- [Sameer Ahamed] -> Team Member
+
+- [Deepak] -> Team Member
 
 ## License
 
