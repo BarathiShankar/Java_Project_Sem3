@@ -1,4 +1,4 @@
-# Syntax Scholars
+# Syntax Scholars Java 2025
 
 ## Overview
 
@@ -35,7 +35,7 @@ This repository, Syntax-Scolars, is a collaborative project developed by three t
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/BarathiShankar/Syntax-Scholars-Java2025.git
+   git clone https://github.com/BarathiShankar/Syntax-Scholars-Java-2025.git
    ```
 2. **Import the project into your Java IDE (Eclipse, IntelliJ IDEA, etc.).**
 3. **Configure your application server (e.g., Tomcat) and database if needed.**
@@ -59,10 +59,8 @@ This project was developed collaboratively by three contributors, each responsib
 
 - [Bhuvaneshwar](https://github.com/TNDEVIL4U) -> Team Leader
 - [Barathi Shankar](https://github.com/BarathiShankar) -> Team Member
-
-- [Sameer Ahamed] -> Team Member
-
-- [Deepak] -> Team Member
+- [Sameer Ahamed](https://github.com/Sameer-Ahamed-T) -> Team Member
+- [Deepak](https://github.com/Deepak007-sipder) -> Team Member
 
 ## License
 
